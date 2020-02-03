@@ -23,6 +23,7 @@ namespace StringdeRakambul
                 Console.WriteLine("soyad içinde rakam bulunmamalıdır");
             if (ad_arama == false && soyad_arama == false)
                 Console.WriteLine("Kayıt başarıyla yapılmıştır");
+            Console.ReadKey();
         }
         public static bool rakambul(string aranacakmetin) //aşağıdaki her koşul içerip içermemesine göre true ya da false döndürecek
         { //yukarda rakam bul metodu kullanılınca aşağıdakilerle rakam bulursa true döner ve kullanılan yere gönderir.

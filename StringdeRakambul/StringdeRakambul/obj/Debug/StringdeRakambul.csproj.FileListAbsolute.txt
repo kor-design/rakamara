@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\rakamara\StringdeRakambul\StringdeRakambul\bin\Debug\StringdeRakambul.exe.config
+C:\Users\Windows10\Documents\GitHub\rakamara\StringdeRakambul\StringdeRakambul\bin\Debug\StringdeRakambul.exe
+C:\Users\Windows10\Documents\GitHub\rakamara\StringdeRakambul\StringdeRakambul\bin\Debug\StringdeRakambul.pdb
+C:\Users\Windows10\Documents\GitHub\rakamara\StringdeRakambul\StringdeRakambul\obj\Debug\StringdeRakambul.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\rakamara\StringdeRakambul\StringdeRakambul\obj\Debug\StringdeRakambul.exe
+C:\Users\Windows10\Documents\GitHub\rakamara\StringdeRakambul\StringdeRakambul\obj\Debug\StringdeRakambul.pdb
